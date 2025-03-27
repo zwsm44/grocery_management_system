@@ -1,1 +1,0 @@
-# grocery_management_system
